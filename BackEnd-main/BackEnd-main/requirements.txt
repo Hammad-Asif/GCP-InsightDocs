@@ -1,0 +1,6 @@
+google.cloud
+google.cloud.documentai
+google.cloud.storage
+ray[all]
+flask
+flask_cors

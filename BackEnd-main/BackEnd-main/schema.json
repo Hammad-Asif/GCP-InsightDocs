@@ -1,0 +1,437 @@
+{
+    "display_name": "Custom Schema",
+    "property_definitions": [
+        {
+            "name": "address",
+            "display_name": "address",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Autres_Amount",
+            "display_name": "Autres_Amount",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Autres_Box",
+            "display_name": "Autres_Box",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Autres2_Amount",
+            "display_name": "Autres2_Amount",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Autres2_Box",
+            "display_name": "Autres2_Box",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Autres3_Amount",
+            "display_name": "Autres3_Amount",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Autres3_Box",
+            "display_name": "Autres3_Box",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Charitable_donations",
+            "display_name": "Charitable_donations",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "payee",
+            "display_name": "Payee",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "CPP_QPP",
+            "display_name": "CPP_QPP",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "CPP_QPP_pensionable_earnings",
+            "display_name": "CPP_QPP_pensionable_earnings",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "EI",
+            "display_name": "EI",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "EI_insurable_earnings",
+            "display_name": "EI_insurable_earnings",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employee_CPP_contributions",
+            "display_name": "Employee_CPP_contributions",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employee_EI_premiums",
+            "display_name": "Employee_EI_premiums",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employee_PPIP_premiums",
+            "display_name": "Employee_PPIP_premiums",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employee_QPP_contributions",
+            "display_name": "Employee_QPP_contributions",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employer_name",
+            "display_name": "Employer_name",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employeraccount_number",
+            "display_name": "Employeraccount_number",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employment_code",
+            "display_name": "Employment_code",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Employment_income",
+            "display_name": "Employment_income",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "first_name",
+            "display_name": "first_name",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Income_tax_deducted",
+            "display_name": "Income_tax_deducted",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "initial",
+            "display_name": "initial",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "last_name",
+            "display_name": "last_name",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "other_Amount",
+            "display_name": "other_Amount",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "other_box",
+            "display_name": "other_box",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "other2_Amount",
+            "display_name": "other2_Amount",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "other2_box",
+            "display_name": "other2_box",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "other3_Amount",
+            "display_name": "other3_Amount",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "other3_box",
+            "display_name": "other3_box",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Pension_adjustment",
+            "display_name": "Pension_adjustment",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "pg2_clause1",
+            "display_name": "pg2_clause1",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "pg2_clause2",
+            "display_name": "pg2_clause2",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "pg2_for_agency",
+            "display_name": "pg2_for_agency",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "PPIP",
+            "display_name": "PPIP",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "PPIP_insurable_earnings",
+            "display_name": "PPIP_insurable_earnings",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Province_of_employment",
+            "display_name": "Province_of_employment",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "RPP_contributions",
+            "display_name": "RPP_contributions",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "RPP_or_DPSP_registration_number",
+            "display_name": "RPP_or_DPSP_registration_number",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Social_insurance_number",
+            "display_name": "Social_insurance_number",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "Union_dues",
+            "display_name": "Union_dues",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        },
+        {
+            "name": "year",
+            "display_name": "year",
+            "is_repeatable": true,
+            "is_filterable": false,
+            "is_searchable": true,
+            "is_metadata": false,
+            "is_required": false,
+            "text_type_options": {}
+        }
+    ],
+    "document_is_folder": false,
+    "description": "Schema for custom processor"
+}
